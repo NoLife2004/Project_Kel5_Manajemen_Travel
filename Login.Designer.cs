@@ -105,12 +105,12 @@
             // 
             this.lblLoginKaryawan.AutoSize = true;
             this.lblLoginKaryawan.BackColor = System.Drawing.Color.Transparent;
-            this.lblLoginKaryawan.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLoginKaryawan.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLoginKaryawan.ForeColor = System.Drawing.Color.Black;
-            this.lblLoginKaryawan.Location = new System.Drawing.Point(147, 25);
+            this.lblLoginKaryawan.Location = new System.Drawing.Point(137, 25);
             this.lblLoginKaryawan.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblLoginKaryawan.Name = "lblLoginKaryawan";
-            this.lblLoginKaryawan.Size = new System.Drawing.Size(48, 20);
+            this.lblLoginKaryawan.Size = new System.Drawing.Size(69, 30);
             this.lblLoginKaryawan.TabIndex = 6;
             this.lblLoginKaryawan.Text = "Login";
             // 
